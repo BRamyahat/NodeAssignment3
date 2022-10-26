@@ -3,3 +3,26 @@
 
 ![Get API](https://user-images.githubusercontent.com/113329537/197952074-3ca06464-8023-4258-96b1-3c0293e4a818.png)
 
+<h2><b>POST API</b></h2>
+
+![Uploading Post API.png…]()
+
+<h2><b>DELETE API</b></h2>
+
+![Uploading Delete API.png…]()
+
+
+<h2><b>PUT API</b></h2>
+
+![Uploading put API.png…]()
+
+
+<h2><b>GET by User Id</b></h2>
+
+![Uploading Screenshot from 2022-10-26 11-42-29.png…]()
+
+
+
+
+![Uploading Screenshot from 2022-10-26 12-10-08.png…]()
+
