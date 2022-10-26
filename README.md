@@ -1,1 +1,1 @@
-<h1><b>Output</b></h1>
+<h1><b>Output Screenshots</b></h1>
