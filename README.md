@@ -4,7 +4,7 @@
 ![Get API](https://user-images.githubusercontent.com/113329537/197952074-3ca06464-8023-4258-96b1-3c0293e4a818.png)
 
 <h2><b>POST API</b></h2>
-<h![Post API](https://user-images.githubusercontent.com/113329537/197955332-c5cb8622-b73e-4e4a-bee3-01be4d5744d6.png)
+[Post API](https://user-images.githubusercontent.com/113329537/197955332-c5cb8622-b73e-4e4a-bee3-01be4d5744d6.png)
 
 
 
