@@ -1,6 +1,8 @@
 
   
 <h1><b>GET API</b></h1>
+
+
 ![Screenshot from 2022-10-26 15-28-46](https://user-images.githubusercontent.com/113329537/197998464-eb47f746-5716-45ae-9a3c-d59ff8f31e7e.png)
 
 
