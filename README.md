@@ -5,7 +5,7 @@
 
 <h2><b>POST API</b></h2>
 
-![Uploading Post API.png…]()
+/home/niveus/nodepractise/mongo1/Post API.png
 
 <h2><b>DELETE API</b></h2>
 
